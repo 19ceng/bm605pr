@@ -10,3 +10,7 @@ PCA
 ![görsel sonucu](http://cmp.felk.cvut.cz/cmp/software/stprtool/examples/pca_example.gif)
 
 - stprtool: `demo_pcacomp`: Demo on image compression using PCA
+
+#### Diğer
+
+- matlab R2010b ile birlikte [princomp](http://www.mathworks.com/help/toolbox/stats/princomp.html) işleviyle destek verilmekte, ayrıntılı dokuman "feature transformation" başlığı altında [pca](http://www.mathworks.com/help/toolbox/stats/brkgqnt.html#brju9yo)
