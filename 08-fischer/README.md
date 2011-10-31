@@ -22,3 +22,5 @@ Fischer+kernel PCA
 - http://cmp.felk.cvut.cz/cmp/software/stprtool/examples.html#greedykpca_example
 
 - http://cmp.felk.cvut.cz/cmp/software/stprtool/examples.html#demo_kpcadenois
+
++http://www.aiaccess.net/English/Glossaries/GlosMod/Flash/e_gm_fla_fisher_discriminant.htm
